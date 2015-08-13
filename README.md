@@ -1,0 +1,1 @@
+Foodbook - A Ionic app that allows you to view recipes. Also allows you to save new recipes as well as edit existing recipes. Full course that uses this app can be found at http://code.tutsplus.com/courses/mobile-apps-with-ionic-and-firebase
